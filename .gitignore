@@ -1,3 +1,8 @@
+codingTemplate/.vs/
+
+*.sln
+*.vcxproj*
+
 # Prerequisites
 *.d
 
