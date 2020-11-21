@@ -1,4 +1,6 @@
 codingTemplate/.vs/
+codingTemplate/x64/
+codingTemplate/codingTemplate/x64/
 
 *.sln
 *.vcxproj*
